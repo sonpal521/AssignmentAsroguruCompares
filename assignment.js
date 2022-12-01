@@ -15,8 +15,7 @@ function astroGuru(jobTitle, geolocation, partner, numKids) {
   }
   
   astroGuru('astronaut', 'Spain', 'Shaq', 3);
-  astroGuru('stunt double', 'Japan', 'Bruce Wayne', 9);
-  astroGuru('Elvis impersonator', 'Russia', 'Elon Musk', 0);
+
 
 
 
@@ -39,6 +38,7 @@ function greaterNum(num1, num2) {
     }
     }
     greaterNum(3, 3);
-    greaterNum(7, -2);
-    greaterNum(5, 9);
     greaterNum(5, 'dog');
+
+
+
